@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Projek Grafika Komputer
+----------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Anggota Kelompok
+1. Yemima Alda Puturuhu 1201220024
+2. Dinda Maya Aprilia 1201220441
+3. Yesha Putri Ayu Wandhira 1201229001
